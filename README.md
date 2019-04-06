@@ -7,6 +7,7 @@ This is collection of participants' exercise and deliverable outcomes. Not sure 
 ### 1. UI design modulization
 
 - [change this to your name](change this to the link)
+- [mingna](testing)
 
 ### 2. HTML and CSS development
 
